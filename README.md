@@ -58,5 +58,4 @@
 - In this project, we recommend unread books by customers based on the book rating 
 - source data : (https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m)
 - For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [recomended system](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/lat2_recommend_sys.ipynb)
-- here is the dataset --> [books dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/book1-100k.csv)
-  -- > [ratings dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/user_rating_0_to_1000.csv)
+- here is the dataset --> [books dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/book1-100k.csv) & [ratings dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/user_rating_0_to_1000.csv)
