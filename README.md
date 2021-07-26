@@ -34,3 +34,28 @@
 - source data : (https://www.kaggle.com/camnugent/california-housing-prices)
 - For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [clustering](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/K-means%20(housing).ipynb)
 - here is the dataset --> [clustering](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/housing.csv)
+
+
+
+#### 4.  NLP  
+- is an NLP method which processes a string of data type. in this project do a word search that often appears from the title course udemy
+- source data : (https://www.kaggle.com/andrewmvd/udemy-courses)
+- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [NLP](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/Udemy%20Courses%20-%20Text%20Mining.ipynb)
+- here is the dataset --> [NLP](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/udemy_courses.csv)
+
+
+
+#### 5.  Time Series  
+- In this project, we are working on a time series that estimates the total volume of avocados for the next few years in America
+- source data : (https://www.kaggle.com/timmate/avocado-prices-2020)
+- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [time series](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/Udemy%20Courses%20-%20Text%20Mining.ipynb)
+- here is the dataset --> [time series](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/avocado.csv)
+
+
+
+
+#### 5.  Time Series  
+- In this project, we are working on a time series that estimates the total volume of avocados for the next few years in America
+- source data : (https://www.kaggle.com/timmate/avocado-prices-2020)
+- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [time series](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/Udemy%20Courses%20-%20Text%20Mining.ipynb)
+- here is the dataset --> [time series](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/avocado.csv)
