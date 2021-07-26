@@ -21,7 +21,7 @@
 
 
 #### 3.  Housing Price 
-- is an unsupervised learning (regression) that makes a predictive model of an average housing price in the California area and in this project uses the ensemble model method
+- is a supervised learning (regression) that makes a predictive model of an average housing price in the California area and in this project uses the ensemble model method
 - source data : (https://www.kaggle.com/camnugent/california-housing-prices)
 - For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [housing_price](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/lat1_ensemble%20model.ipynb)
 - here is the dataset --> [housing price dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/housing.csv)
@@ -29,8 +29,8 @@
 
 
 
-#### 3.  Housing Price 
-- is an unsupervised learning (regression) that makes a predictive model of an average housing price in the California area and in this project uses the ensemble model method
+#### 4.  Clustering  
+- is unsupervised learning (clustering) which creates a clustering model from the California housing dataset based on the features in it. The output of this model is to get a group from a segmentation
 - source data : (https://www.kaggle.com/camnugent/california-housing-prices)
-- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [housing_price](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/lat1_ensemble%20model.ipynb)
-- here is the dataset --> [housing price dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/housing.csv)
+- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [clustering](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/K-means%20(housing).ipynb)
+- here is the dataset --> [clustering](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/housing.csv)
