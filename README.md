@@ -61,3 +61,12 @@
 - source data : (https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m)
 - For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [recomended system](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/lat2_recommend_sys.ipynb)
 - here is the dataset --> [books dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/book1-100k.csv) & [ratings dataset](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/user_rating_0_to_1000.csv)
+
+
+
+
+#### 7.  SQL (PyMySQL)
+- This project is different from others not about machine learning but about SQL. This project is actually one of the tests when I was in Purwadhika, which is about understanding SQL with MYSQL. in the test i did it through jupyter notebook using python MySQL and the database used is sakila, the database about DVD rental shop.
+- source database : (https://dev.mysql.com/doc/sakila/en/)
+- For details of the process, such as coding, insight, and others you can find this jupyter notebook file --> [Module 2 Exam](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/ujian_module2.ipynb)
+- here is the sakila database --> [sakila](https://github.com/rasyadmustafa/Data-Science_Project_Rasyad/blob/main/sakila.mwb)
